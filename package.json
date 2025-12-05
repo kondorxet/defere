@@ -1,0 +1,13 @@
+{
+  "dependancies": {
+    "express": "^5.2.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
